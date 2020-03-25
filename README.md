@@ -1,2 +1,2 @@
 # person-names-normalization
-Software for person names normalization
+Notebook with code for person names normalization
